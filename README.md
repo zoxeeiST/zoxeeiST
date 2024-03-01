@@ -1,5 +1,5 @@
 [![MasterHead](https://logoman.ca/wp-content/uploads/2018/01/Slider-Banner-Programming-Image-.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Xiaorou</h1>
+<h1 align="center">Hi 👋, I'm Zeun</h1>
 <h3 align="center">A passionate student aspiring to be a developer</h3>
 <image align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1280/1*ubCR6WyFNthQVQ9D4AIO9g.gif"> 
 

@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/564x/18/e7/7b/18e77b33b22584f62802153198a1feef.jpg)](https://rishavchanda.io)
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2017/05/best-infographic-examples-header-wide.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Zeun</h1>
 <h3 align="center">A passionate student aspiring to be a developer</h3>
 <image align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1280/1*ubCR6WyFNthQVQ9D4AIO9g.gif"> 

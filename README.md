@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/564x/5e/dd/a9/5edda9aa22318ce80fe53e6e840d8e44.jpg)](https://rishavchanda.io)
+<div style="text-align: center;">[![MasterHead](https://i.pinimg.com/564x/5e/dd/a9/5edda9aa22318ce80fe53e6e840d8e44.jpg)](https://rishavchanda.io)</div>
 <h1 align="center">Hi 👋, I'm Zeun</h1>
 <h3 align="center">A passionate student aspiring to be a developer</h3>
 <image align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1280/1*ubCR6WyFNthQVQ9D4AIO9g.gif"> 
